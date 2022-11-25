@@ -21,6 +21,11 @@
     <img src="./assets/WSLarch.drawio.png" alt="WSSL architecture"> 
 </p>
 
+# Dataset links
+- [Tiny Imagenet-200](https://github.com/seshuad/IMagenet)
+- [CelebA-HQ](https://www.kaggle.com/datasets/badasstechie/celebahq-resized-256x256)
+- [QD-IMD](https://www.kaggle.com/datasets/ideanvidia/qd-imd-30-50)
+
 # Pretrained weights
 The weight names follow the following naming convention
 ```<task-1>-<task-2>-<task-1-weight>-<task-2-weight>```. They are the final weights to be used by the model for inference.
