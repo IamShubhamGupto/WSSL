@@ -35,6 +35,8 @@ The weight names follow the following naming convention
 | Sharpness-Saturation-90-10             | [here](https://drive.google.com/file/d/1zOk16iztj57y62cU5McKDj9NwrsL14UE/view?usp=share_link)           |
 | Rotation-Saturation-30-70                | [here](https://drive.google.com/file/d/1V2HI9nMdq3ZGnM7vqoYSL4vp4rkvZPHQ/view?usp=share_link)         |
 
+<b>NOTE:</b> There may be minor variations in the PSNR and SSIM observed depending on the input image and mask combination used during inference.
+
 # Reference
 If you find our work useful, please cite using
 ### plaintext
