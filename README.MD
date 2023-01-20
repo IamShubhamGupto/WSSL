@@ -5,7 +5,7 @@
   <h1 align="center">WSSL: Weighted-Self-Supervised-Learning-for-Image-Inpainting</h1>
   
   <p align="center">
-    Image inpainting using a weighted self supervised learning architecture
+    Image inpainting using a weighted self supervised learning architecture. Work published at <a href="https://www.cgv-conf.org">CGVCVIP 2022</a>.
     <br />
   </p>
 </p>
